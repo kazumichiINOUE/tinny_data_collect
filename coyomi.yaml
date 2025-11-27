@@ -1,0 +1,13 @@
+Robot_name: Coyomi2
+
+Size:
+  width: 550      #[mm]
+  length: 700     #[mm]
+  height: 1120    #[mm]
+  weight: 70      #[kg]
+
+2DLIDAR:
+  start_angle: -135.0
+  end_angle: 135.0
+  step_angle: 0.25
+  max_echo_size: 3
